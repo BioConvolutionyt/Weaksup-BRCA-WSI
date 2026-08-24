@@ -110,8 +110,6 @@ data/             # 弱标签、面积参照、映射与 QC 记录（小型 CSV/
 exploration/      # 6.1–6.4 探索笔记、results/ 图表与数据、探索报告 docx
 ```
 
-`outputs/`（8.2 结果文件，另行打包提交）、`features/`、`processed/`、`coords/`、`UNI/`、`TCGA_Download/` 等大体量或可再生内容不入库，按上文「复现流程」各节命令即可在本地完整再生，详见 `.gitignore`。
-
 ## 探索实验（6.1–6.4）
 
 | 章节 | 问题 | 结论摘要 |
