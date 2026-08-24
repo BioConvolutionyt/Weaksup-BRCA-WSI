@@ -36,8 +36,6 @@ data/
   preprocess_registry.csv        # 预处理登记表
 ```
 
-WSI 下载流程：GDC 门户筛选 TCGA-BRCA 的 Diagnostic Slide → 导出 manifest → 以 gdc-client 批量下载。完整流程记录见技术报告第 0 节。
-
 ## 复现流程
 
 以下命令均在仓库根目录执行，所有配置项在各 `configs/*.py` 与脚本顶部常量中定义，不接受命令行参数。
