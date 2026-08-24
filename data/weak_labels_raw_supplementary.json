@@ -1,0 +1,4446 @@
+{
+ "data": {
+  "hits": [
+   {
+    "id": "db8d38ab-cc61-49ee-863d-40060112f2af",
+    "submitter_id": "TCGA-A8-A08H",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A8-A08H-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A08H-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A08H-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-A8-A08H-01A-02-BS2",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "26653396-4d2c-4614-9cb1-244e7d4fdfae",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 19.0,
+          "submitter_id": "TCGA-A8-A08H-01A-01-BS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "ec8e361e-ad57-4505-8cee-f897eca575c5",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 3.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-A8-A08H-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-A8-A08H-01A-11-A13B-20"
+       },
+       {
+        "submitter_id": "TCGA-A8-A08H-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A08H-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A8-A08H-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "dd1ed35b-0e05-43c9-be11-b89a2faebc66",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "0b0f9938-ce1e-4814-8821-0132d137eb9e",
+    "submitter_id": "TCGA-LD-A7W6",
+    "samples": [
+     {
+      "submitter_id": "TCGA-LD-A7W6-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-LD-A7W6-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "7d9dc8e5-4108-4735-a180-ee783c5b15a0",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-LD-A7W6-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-LD-A7W6-01A-08-TSH",
+          "section_location": "TOP",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "8f554835-5e24-482e-9f5e-0572c197f938",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 30.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-LD-A7W6-01A-81"
+       },
+       {
+        "submitter_id": "TCGA-LD-A7W6-01A-91"
+       },
+       {
+        "submitter_id": "TCGA-LD-A7W6-01A-91-A43F-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-LD-A7W6-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-LD-A7W6-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "0ec70e40-07df-461d-8ff9-351240a0d454",
+    "submitter_id": "TCGA-A7-A5ZV",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A7-A5ZV-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A7-A5ZV-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "62a48af7-f4eb-4669-9ec7-83d08d38316e",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A5ZV-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A5ZV-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-A7-A5ZV-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "7d506802-d2b5-4bfb-ab73-b62c87558d9b",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 40.0,
+          "percent_lymphocyte_infiltration": 20.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 20.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A5ZV-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-A7-A5ZV-01A-21-A321-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A5ZV-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A5ZV-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "27c1c094-690b-4973-8900-a797ad88f98c",
+    "submitter_id": "TCGA-D8-A27T",
+    "samples": [
+     {
+      "submitter_id": "TCGA-D8-A27T-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-D8-A27T-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 60.0,
+          "submitter_id": "TCGA-D8-A27T-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 40.0,
+          "number_proliferating_cells": null,
+          "slide_id": "5f603af5-e50c-456a-b79a-a42fd63cd65a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 60.0
+         }
+        ],
+        "submitter_id": "TCGA-D8-A27T-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-D8-A27T-01A-21-A17L-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-D8-A27T-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-D8-A27T-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-D8-A27T-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-D8-A27T-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "6a5afe85-c8fb-4cb9-8663-a59f8911eb68",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       },
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-D8-A27T-01Z-00-DX2",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "d29cc41d-bf07-4f66-8d1a-e47dcddcfb87",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a53dd490-e0ba-419a-90c6-b905e241a8e5",
+    "submitter_id": "TCGA-A2-A4S0",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A4S0-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A4S0-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "7e828f9a-d202-40b6-9f1a-7254bc254f49",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A4S0-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-A2-A4S0-01A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "f1106319-81b9-4561-b6e3-d50282a0e42a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 10.0,
+          "percent_lymphocyte_infiltration": 40.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 25.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A4S0-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-A2-A4S0-01A-11-A321-20"
+       },
+       {
+        "submitter_id": "TCGA-A2-A4S0-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A4S0-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A4S0-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bdd08ec8-8892-4273-8f21-6fde0f23c52d",
+    "submitter_id": "TCGA-EW-A423",
+    "samples": [
+     {
+      "submitter_id": "TCGA-EW-A423-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-EW-A423-01Z-00-DX2",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "4828bd65-2f71-48c5-b146-966873615707",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       },
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-EW-A423-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "a16e42c0-1f40-4940-8a75-a03b84b3eb58",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-EW-A423-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-EW-A423-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-EW-A423-01A-21-A321-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-EW-A423-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "268ba465-da2e-48d1-b9d7-c0c706499d09",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 95.0
+         }
+        ],
+        "submitter_id": "TCGA-EW-A423-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-EW-A423-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-EW-A423-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "7d9d3522-ec3b-4efe-8c8e-c0e675276ef5",
+    "submitter_id": "TCGA-BH-A0GY",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A0GY-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A0GY-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "a3e3435e-e76c-4ceb-95cf-239da42ae2cb",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0GY-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0GY-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 9.0,
+          "submitter_id": "TCGA-BH-A0GY-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 90.0,
+          "number_proliferating_cells": null,
+          "slide_id": "8fbab1df-7130-4c95-b61d-9b988b4f7507",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 1.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         },
+         {
+          "percent_stromal_cells": 30.0,
+          "submitter_id": "TCGA-BH-A0GY-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "d5301721-b7af-4291-96dd-220436458f10",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0GY-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0GY-01A-21-A13C-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0GY-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0GY-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "43029932-feb0-4658-97fa-645c1e775009",
+    "submitter_id": "TCGA-AR-A1AN",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AR-A1AN-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 25.0,
+          "submitter_id": "TCGA-AR-A1AN-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "f27b0f08-345b-4950-9344-8f6c54ca576a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-AR-A1AN-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AR-A1AN-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AR-A1AN-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "38849d6e-fddf-43ed-8943-eca9790a45a4",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AR-A1AN-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AR-A1AN-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "43c0bec6-6fac-47b1-83cb-200a15a932be",
+    "submitter_id": "TCGA-OL-A5RX",
+    "samples": [
+     {
+      "submitter_id": "TCGA-OL-A5RX-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-OL-A5RX-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "42722a80-5994-4eb2-8f6c-4a695dddba61",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A5RX-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A5RX-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A5RX-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-OL-A5RX-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "a2d25c2c-d7c5-4d31-8663-3345db03780a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-OL-A5RX-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-OL-A5RX-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-OL-A5RX-01A-21-A321-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "5a53ec47-e63f-44a2-8078-87659544fb04",
+    "submitter_id": "TCGA-A2-A4RY",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A4RY-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A4RY-01A-11"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-A2-A4RY-01A-03-TSC",
+          "section_location": "TOP",
+          "percent_tumor_cells": 98.0,
+          "number_proliferating_cells": null,
+          "slide_id": "ad01c137-2742-4508-a068-d87cae17e1da",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 2.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A4RY-01A-31"
+       },
+       {
+        "submitter_id": "TCGA-A2-A4RY-01A-11-A321-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A4RY-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A4RY-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "95c58d11-3025-4f54-9456-18e33e4a9434",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A4RY-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A4RY-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "5cd79093-1571-4f71-8136-0d84ccabdcac",
+    "submitter_id": "TCGA-WT-AB44",
+    "samples": [
+     {
+      "submitter_id": "TCGA-WT-AB44-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-WT-AB44-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b6c0eedb-e5b9-4b0d-8599-23879a0419eb",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-WT-AB44-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-WT-AB44-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-WT-AB44-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "224b7685-d904-4d9d-a7bd-523edc66ce12",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-WT-AB44-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-WT-AB44-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "5e670fec-8992-44bf-8657-f7f9a272306b",
+    "submitter_id": "TCGA-A2-A0EN",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A0EN-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A0EN-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "25a5c49a-7566-4388-9580-d651ba4ca521",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0EN-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 14.0,
+          "submitter_id": "TCGA-A2-A0EN-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 85.0,
+          "number_proliferating_cells": null,
+          "slide_id": "7918d788-f2ab-44cd-8c1d-14659668e34f",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 1.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         },
+         {
+          "percent_stromal_cells": 13.0,
+          "submitter_id": "TCGA-A2-A0EN-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 85.0,
+          "number_proliferating_cells": null,
+          "slide_id": "d57caa16-813c-41c9-9b9a-3e906e576bb0",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 2.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A0EN-01A-13"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0EN-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A0EN-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "8cd1ba0b-ead9-4661-a796-6c9dbf1c42cd",
+    "submitter_id": "TCGA-AC-A8OR",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AC-A8OR-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-AC-A8OR-01A-02-TS2",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "bcdbf0f3-565c-46bd-b78b-03b178b22a26",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 96.0
+         }
+        ],
+        "submitter_id": "TCGA-AC-A8OR-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-AC-A8OR-01A-22"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AC-A8OR-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AC-A8OR-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AC-A8OR-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AC-A8OR-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "11f06a98-fe4e-4491-a036-45869857bc59",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "e1786e78-ac46-46fd-8ce0-8f7456e46082",
+    "submitter_id": "TCGA-LL-A8F5",
+    "samples": [
+     {
+      "submitter_id": "TCGA-LL-A8F5-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-LL-A8F5-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-LL-A8F5-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-LL-A8F5-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "1c93afdc-9519-43ba-92a2-feefdbd2460f",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-LL-A8F5-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-LL-A8F5-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b5357ca4-8c24-4f27-9054-06b801c3d8df",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 20.0,
+          "percent_lymphocyte_infiltration": 40.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-LL-A8F5-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-LL-A8F5-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-LL-A8F5-01A-21-A43F-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "959ff069-8a49-4c9b-85c2-5291cac0acff",
+    "submitter_id": "TCGA-C8-A3M7",
+    "samples": [
+     {
+      "submitter_id": "TCGA-C8-A3M7-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-C8-A3M7-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-C8-A3M7-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-C8-A3M7-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "677a5f7e-ed18-477d-9cb7-315a4c0e2672",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-C8-A3M7-01A-12"
+       },
+       {
+        "submitter_id": "TCGA-C8-A3M7-01A-21-A24A-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-C8-A3M7-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-C8-A3M7-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-C8-A3M7-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-C8-A3M7-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "e60f56d8-6597-47b4-98bd-919c65950022",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "9646160a-f1f9-437b-8c7d-efb0b57bfb97",
+    "submitter_id": "TCGA-AN-A0AJ",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AN-A0AJ-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AN-A0AJ-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "a96d242a-bbbd-45c0-a6a2-e544acedf88d",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AN-A0AJ-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AN-A0AJ-01A-21-A13B-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 15.0,
+          "submitter_id": "TCGA-AN-A0AJ-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "c21f9dd1-b47c-406f-9ad6-6969bd6f3246",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 5.0,
+          "percent_lymphocyte_infiltration": 10.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 5.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         },
+         {
+          "percent_stromal_cells": 13.0,
+          "submitter_id": "TCGA-AN-A0AJ-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 85.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e768585b-8fac-4998-88a6-29983ae06c92",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 5.0,
+          "percent_lymphocyte_infiltration": 10.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 2.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-AN-A0AJ-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-AN-A0AJ-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-AN-A0AJ-01A-22-A21W-30"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AN-A0AJ-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AN-A0AJ-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "96e1fc6d-693f-4f4f-b5f7-8d6e1c6c43f8",
+    "submitter_id": "TCGA-OL-A66J",
+    "samples": [
+     {
+      "submitter_id": "TCGA-OL-A66J-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-OL-A66J-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e4bf378d-1355-4ca2-b0a5-b6c2290ebfce",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-OL-A66J-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-OL-A66J-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-OL-A66J-01A-21-A321-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66J-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A66J-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66J-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-OL-A66J-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "757ed685-edaf-43fc-8b80-0cc0c831620a",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "332423a7-8866-4ee3-b08f-3c8d7c16af80",
+    "submitter_id": "TCGA-A2-A0CU",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A0CU-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A0CU-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0CU-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A0CU-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "e7a8bfeb-9e3d-488e-a468-9ccf361cd903",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0CU-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 15.0,
+          "submitter_id": "TCGA-A2-A0CU-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "332cdd40-deca-4fad-8cf6-03fb91b121c3",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         },
+         {
+          "percent_stromal_cells": 30.0,
+          "submitter_id": "TCGA-A2-A0CU-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 65.0,
+          "number_proliferating_cells": null,
+          "slide_id": "37059615-5809-4066-992a-ec50f8c2041c",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A0CU-01A-12"
+       },
+       {
+        "submitter_id": "TCGA-A2-A0CU-01A-21-A13B-20"
+       },
+       {
+        "submitter_id": "TCGA-A2-A0CU-01A-21"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "38a631a1-6875-4216-a335-ee93c90a86d6",
+    "submitter_id": "TCGA-D8-A1Y1",
+    "samples": [
+     {
+      "submitter_id": "TCGA-D8-A1Y1-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-D8-A1Y1-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "543253ea-e133-4c95-876c-824ec77a182c",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       },
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-D8-A1Y1-01Z-00-DX2",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "69929568-cca2-46c0-9d50-6d976fc87a99",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-D8-A1Y1-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-D8-A1Y1-01A-02-TS2",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "218a98c4-7528-4eb6-83d1-9866a80969d2",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 90.0
+         }
+        ],
+        "submitter_id": "TCGA-D8-A1Y1-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-D8-A1Y1-01A-11-A17K-20"
+       },
+       {
+        "submitter_id": "TCGA-D8-A1Y1-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-D8-A1Y1-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-D8-A1Y1-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "606fbc6a-b41b-441d-9401-51e54912bf5e",
+    "submitter_id": "TCGA-BH-A0E1",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A0E1-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A0E1-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "c5485e92-f79a-48d8-b7de-df5879e7ca7c",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0E1-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0E1-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0E1-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 4.0,
+          "submitter_id": "TCGA-BH-A0E1-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 55.0,
+          "number_proliferating_cells": null,
+          "slide_id": "01da1142-7d58-419d-998b-acd3be403d31",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 40.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 14.0,
+          "submitter_id": "TCGA-BH-A0E1-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "57534115-65b7-48cc-b124-13b8f3c15d48",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 1.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0E1-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0E1-01A-41-A21V-30"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0E1-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0E1-01A-21-A13B-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0E1-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": null,
+          "submitter_id": "TCGA-BH-A0E1-11A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "92fc4382-6bb1-4ca5-ac90-8116afde7d92",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 8.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": null,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": null
+         },
+         {
+          "percent_stromal_cells": null,
+          "submitter_id": "TCGA-BH-A0E1-11A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e81e751c-af38-4650-8add-93c6def815f3",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 6.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": null,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": null
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0E1-11A-13"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0E1-11A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0E1-11A-21-A43O-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "623befd6-0ca4-4a6c-9cf5-d9385c3b718f",
+    "submitter_id": "TCGA-AR-A1AO",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AR-A1AO-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AR-A1AO-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "7d55278b-a198-4176-8362-b39e97550410",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AR-A1AO-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-AR-A1AO-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b77b7b53-7cf8-4ea5-b705-c041ca6e16a7",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 8.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-AR-A1AO-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-AR-A1AO-01A-21-A13E-20"
+       },
+       {
+        "submitter_id": "TCGA-AR-A1AO-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AR-A1AO-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AR-A1AO-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "9938ce5c-e74e-446e-a932-f096f85cc3b1",
+    "submitter_id": "TCGA-AQ-A04J",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AQ-A04J-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-AQ-A04J-01A-01-BS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 65.0,
+          "number_proliferating_cells": null,
+          "slide_id": "83b89953-2edf-4a7c-bb98-c308fadffc3d",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 5.0,
+          "percent_normal_cells": 10.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 27.0,
+          "submitter_id": "TCGA-AQ-A04J-01A-02-MS2",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 50.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e47ffa6a-8d29-4a72-885f-be1d984b00c7",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 25.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 15.0,
+          "percent_normal_cells": 8.0,
+          "percent_monocyte_infiltration": 2.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-AQ-A04J-01A-02"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AQ-A04J-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AQ-A04J-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AQ-A04J-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AQ-A04J-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "8dea547b-71e6-4ff9-885f-6d2984f6a3c6",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "805bfe39-3695-43c2-93e4-d66d0559b89f",
+    "submitter_id": "TCGA-A2-A1FZ",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A1FZ-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A1FZ-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "635fd34d-7841-48b0-b4a8-a444ff715507",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A1FZ-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A1FZ-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A1FZ-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A1FZ-01A-11-A17I-20"
+       },
+       {
+        "submitter_id": "TCGA-A2-A1FZ-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 45.0,
+          "submitter_id": "TCGA-A2-A1FZ-01A-05-TSE",
+          "section_location": "TOP",
+          "percent_tumor_cells": 55.0,
+          "number_proliferating_cells": null,
+          "slide_id": "92edfd43-6c1e-4b2c-851e-e0968ad67036",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A1FZ-01A-51"
+       },
+       {
+        "submitter_id": "TCGA-A2-A1FZ-01A-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "e783e518-c1e5-4eac-8eaf-e2d65ccd9692",
+    "submitter_id": "TCGA-S3-AA15",
+    "samples": [
+     {
+      "submitter_id": "TCGA-S3-AA15-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-S3-AA15-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-S3-AA15-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-S3-AA15-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "1dec0424-7d8e-4e74-ad4e-4a82f9a79a72",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       },
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-S3-AA15-01Z-00-DX2",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "c5c8bda4-0136-43d1-b834-b62ca6cc29ae",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-S3-AA15-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-S3-AA15-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 35.0,
+          "submitter_id": "TCGA-S3-AA15-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 60.0,
+          "number_proliferating_cells": null,
+          "slide_id": "395d6b62-e484-472a-9283-da4cd6cb4e79",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 20.0,
+          "percent_lymphocyte_infiltration": 40.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 60.0
+         }
+        ],
+        "submitter_id": "TCGA-S3-AA15-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-S3-AA15-01A-21-A43F-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "da70cf7e-0e61-4c72-b4c5-c408569d11b8",
+    "submitter_id": "TCGA-A7-A3J0",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A7-A3J0-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-A7-A3J0-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b5370575-81bf-4a6f-9701-bd12587ae98c",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 92.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A3J0-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-A7-A3J0-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-A7-A3J0-01A-21-A24A-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A3J0-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A7-A3J0-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "bf905fba-f467-4048-bdd4-e339c6e74d83",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A3J0-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A3J0-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dbb2da92-99dd-400c-bc05-e87d7273656c",
+    "submitter_id": "TCGA-E2-A1B4",
+    "samples": [
+     {
+      "submitter_id": "TCGA-E2-A1B4-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-E2-A1B4-01A-21-A13E-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-E2-A1B4-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4a536aa0-47af-4c66-a151-a5d5db65a566",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-E2-A1B4-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-E2-A1B4-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A1B4-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-E2-A1B4-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A1B4-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-E2-A1B4-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "bccec654-4e87-4a8d-bc4f-7136e1e5daec",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dcfd0b1d-5707-44a6-b225-5e8f7cea5ca1",
+    "submitter_id": "TCGA-A8-A097",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A8-A097-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A097-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A097-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 21.0,
+          "submitter_id": "TCGA-A8-A097-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "00bd646a-58cb-4be4-b2ae-9368143eaa9b",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 4.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 27.0,
+          "submitter_id": "TCGA-A8-A097-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "6b89928e-f322-487e-8b96-819e432ebd1b",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 3.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-A8-A097-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A097-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A8-A097-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "fd38b197-1f03-4354-ad9f-a9f9d3172c19",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc657ca8-98e8-4ec4-a513-1b848be0e85d",
+    "submitter_id": "TCGA-BH-A0HU",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A0HU-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0HU-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0HU-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A0HU-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "b4fd25d4-abe1-4b2f-bac9-4549ce4b8bef",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0HU-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0HU-01A-21-A13A-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 17.0,
+          "submitter_id": "TCGA-BH-A0HU-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "24d5d604-52a8-45ef-9295-c69fa1e54ebd",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 3.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 18.0,
+          "submitter_id": "TCGA-BH-A0HU-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "2ff65f66-42b5-40fc-9ce8-d9ab4aa4bea5",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0HU-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0HU-01A-21"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "0e1d0d46-7a7b-4538-95dd-b9fc20a15aec",
+    "submitter_id": "TCGA-E2-A1BD",
+    "samples": [
+     {
+      "submitter_id": "TCGA-E2-A1BD-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-E2-A1BD-01A-21-A13E-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 15.0,
+          "submitter_id": "TCGA-E2-A1BD-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 85.0,
+          "number_proliferating_cells": null,
+          "slide_id": "240c5cd9-3dad-40fe-82a9-f81214203302",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 90.0
+         }
+        ],
+        "submitter_id": "TCGA-E2-A1BD-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-E2-A1BD-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A1BD-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-E2-A1BD-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "b8647b20-77cd-4f91-bc3e-fd469b5605ce",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A1BD-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-E2-A1BD-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "6dd0dd7b-62ff-4fd1-a99a-b265f1a91dca",
+    "submitter_id": "TCGA-BH-A1FN",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A1FN-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A1FN-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "790fd2c8-7b9b-4ce4-a62e-fc52b2f9e53e",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1FN-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1FN-11A-03-TSC",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "5ff0deac-c372-4e0d-a2c6-61f9e7e49f56",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1FN-11A-34"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1FN-11A-41"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1FN-11A-41-A43O-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1FN-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A1FN-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1FN-01A-21-A17I-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1FN-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "282e0721-24ae-47b0-a418-539a8b5c5241",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 5.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1FN-01A-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ba39bfbc-5cac-4f6c-b55c-4eee3466ee93",
+    "submitter_id": "TCGA-BH-A0DL",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A0DL-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-BH-A0DL-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 78.0,
+          "number_proliferating_cells": null,
+          "slide_id": "7328c7b0-af70-4309-8908-9684d53b8b3d",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 1.0,
+          "percent_lymphocyte_infiltration": 27.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         },
+         {
+          "percent_stromal_cells": 28.0,
+          "submitter_id": "TCGA-BH-A0DL-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "bbf68858-72c8-490a-89b1-6018c8aef709",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 24.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0DL-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0DL-01A-21-A13B-20"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0DL-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 35.0,
+          "submitter_id": "TCGA-BH-A0DL-01A-03-BSC",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 59.0,
+          "number_proliferating_cells": null,
+          "slide_id": "a5e0c1fb-e4d9-4236-848d-fa926f71d36c",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": "2018-06-13T16:19:21.953501-05:00",
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 30.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 50.0
+         },
+         {
+          "percent_stromal_cells": 40.0,
+          "submitter_id": "TCGA-BH-A0DL-01A-03-TSC",
+          "section_location": "TOP",
+          "percent_tumor_cells": 59.0,
+          "number_proliferating_cells": null,
+          "slide_id": "aa747529-d29f-4930-8595-4caa4ededbeb",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": "2018-06-13T16:19:21.953501-05:00",
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 20.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 30.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0DL-01A-31-A602-42"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0DL-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0DL-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0DL-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A0DL-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "ef0d6577-2732-4cf0-be24-97e0977ea6b7",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0DL-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": null,
+          "submitter_id": "TCGA-BH-A0DL-11A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": null,
+          "number_proliferating_cells": null,
+          "slide_id": "265a63aa-9dd5-4d64-9e8b-29c534306433",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": null,
+          "percent_lymphocyte_infiltration": null,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": null,
+          "percent_normal_cells": null,
+          "percent_monocyte_infiltration": null,
+          "state": "released",
+          "percent_tumor_nuclei": null
+         },
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A0DL-11A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "957719a2-e95d-4a8c-b3b6-5fb52d356dc8",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:05:09.051614-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0DL-11A-13"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ba89cb4f-cd63-47b1-9550-76fdaff89f2e",
+    "submitter_id": "TCGA-A2-A25E",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A25E-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A25E-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "afa7c8b5-b702-4939-9a9c-e8802e78584c",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A25E-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A25E-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-A2-A25E-01A-21-A17I-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 26.0,
+          "submitter_id": "TCGA-A2-A25E-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 72.0,
+          "number_proliferating_cells": null,
+          "slide_id": "d01b323d-2c94-4a89-96dc-5c3d7ed76916",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A25E-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A25E-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A25E-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bac4b268-c781-4408-96d8-43a48fec7418",
+    "submitter_id": "TCGA-BH-A2L8",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A2L8-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A2L8-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "020c09ab-6ac4-40a1-8519-c966889f3177",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A2L8-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 25.0,
+          "submitter_id": "TCGA-BH-A2L8-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "bb86d75f-cd05-4200-a4b7-2d83c697d53a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A2L8-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A2L8-01A-21-A24A-20"
+       },
+       {
+        "submitter_id": "TCGA-BH-A2L8-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A2L8-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A2L8-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "78e1da41-127c-4e9c-aaaa-77a0d94c31d0",
+    "submitter_id": "TCGA-A8-A08C",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A8-A08C-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A08C-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A08C-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-A8-A08C-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 78.0,
+          "number_proliferating_cells": null,
+          "slide_id": "5330b5f5-7bcf-4ca1-8ebc-cae280221961",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 4.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 88.0
+         },
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-A8-A08C-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 78.0,
+          "number_proliferating_cells": null,
+          "slide_id": "fc1246d4-246a-482f-a819-b80f25b95f87",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 3.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 90.0
+         }
+        ],
+        "submitter_id": "TCGA-A8-A08C-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A08C-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A8-A08C-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "56d165d3-e32f-483b-8da2-ad6f55350afd",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "7b892055-c59d-4550-8688-ad039790af3d",
+    "submitter_id": "TCGA-BH-A1EX",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A1EX-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1EX-11A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4a2e36b1-5bca-438b-abf6-a192d11bb1ae",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         },
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1EX-11A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "69bb1154-ee25-47f5-9b84-34e2fb824b36",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1EX-11A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1EX-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A1EX-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "a212bfe8-88c8-449e-b1e9-f1b6c2183cb6",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1EX-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 15.0,
+          "submitter_id": "TCGA-BH-A1EX-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 85.0,
+          "number_proliferating_cells": null,
+          "slide_id": "744ac7ab-1815-4c2c-9d49-26b51cbfe3af",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 60.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1EX-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1EX-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1EX-01A-21-A17I-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "5dd423e8-feaa-4568-a750-500948c41d6c",
+    "submitter_id": "TCGA-B6-A0I1",
+    "samples": [
+     {
+      "submitter_id": "TCGA-B6-A0I1-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 25.0,
+          "submitter_id": "TCGA-B6-A0I1-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 60.0,
+          "number_proliferating_cells": null,
+          "slide_id": "6e0b6fb6-b708-4218-a709-d39e455d6700",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 15.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         },
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-B6-A0I1-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 65.0,
+          "number_proliferating_cells": null,
+          "slide_id": "95ca1dc3-0b4a-48e0-806f-841fef39f941",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 30.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 65.0
+         }
+        ],
+        "submitter_id": "TCGA-B6-A0I1-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-B6-A0I1-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-B6-A0I1-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-B6-A0I1-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-B6-A0I1-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "94bce8ef-0a2f-4db9-a5b4-81a80369b748",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "8c7e74e0-71ef-49b8-9217-94b8ef740ef9",
+    "submitter_id": "TCGA-A7-A13E",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A7-A13E-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A13E-11A-71"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-A7-A13E-11A-03-TS3",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "927ae45d-b4aa-4dec-8e30-88902119bbe5",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A13E-11A-61"
+       },
+       {
+        "submitter_id": "TCGA-A7-A13E-11A-71-A43O-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A13E-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A13E-10A-02"
+       },
+       {
+        "submitter_id": "TCGA-A7-A13E-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A13E-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A13E-01A-31-A615-42"
+       },
+       {
+        "submitter_id": "TCGA-A7-A13E-01A-21-A13E-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-A7-A13E-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 100.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4f107ed6-13b7-4685-9baf-d7ba5a4adeff",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         },
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-A7-A13E-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "6abb32ba-9836-4032-94cb-7113e0dce7aa",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 95.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A13E-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-A7-A13E-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A13E-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A7-A13E-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "4bbb7856-8a1c-433a-9a51-9045908a44a6",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       },
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A7-A13E-01Z-00-DX2",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "a76cb743-ef0e-42dd-a32b-703ec992a682",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A13E-01B",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 40.0,
+          "submitter_id": "TCGA-A7-A13E-01B-05-BS5",
+          "section_location": "TOP",
+          "percent_tumor_cells": 60.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4266663c-c51a-4676-9a2a-6a1e5c909e8e",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 20.0,
+          "percent_lymphocyte_infiltration": 40.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 60.0
+         },
+         {
+          "percent_stromal_cells": 30.0,
+          "submitter_id": "TCGA-A7-A13E-01B-06-BS6",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4796c3a1-71ed-4757-b9ea-9fec4e261d30",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 20.0,
+          "percent_lymphocyte_infiltration": 40.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A13E-01B-06"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-A7-A13E-01B-04-BS4",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 50.0,
+          "number_proliferating_cells": null,
+          "slide_id": "31b2b06b-fab3-4166-a933-c36a78feb259",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 3.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 45.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         },
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-A7-A13E-01B-03-BS3",
+          "section_location": "TOP",
+          "percent_tumor_cells": 50.0,
+          "number_proliferating_cells": null,
+          "slide_id": "62d23e20-e3e7-46b0-bae1-12204c0f04b7",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 3.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:06:52.000415-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 45.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A13E-01B-04"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "8cccf160-93e9-48a5-9b8b-54aa50153142",
+    "submitter_id": "TCGA-A8-A07P",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A8-A07P-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A8-A07P-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "0307cdca-3e07-410e-8496-364fba170087",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A07P-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A07P-01A-21-A13B-20"
+       },
+       {
+        "submitter_id": "TCGA-A8-A07P-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-A8-A07P-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "26774e35-740d-4849-b1bb-b89bbc1667d4",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         },
+         {
+          "percent_stromal_cells": 28.0,
+          "submitter_id": "TCGA-A8-A07P-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4bb95702-b8db-403d-9f30-1519eb9c7b11",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 2.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-A8-A07P-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A07P-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A07P-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "4649dee3-b668-44cd-ab97-3834de3ef8f8",
+    "submitter_id": "TCGA-AN-A0XL",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AN-A0XL-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AN-A0XL-10A-01"
+       },
+       {
+        "submitter_id": "TCGA-AN-A0XL-10A-02"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AN-A0XL-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AN-A0XL-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "57f72c23-8642-4f8f-9a2e-3a86976b7bd1",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AN-A0XL-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-AN-A0XL-01A-01-MS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 30.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b12658ed-b708-4bdf-beef-f968f6913e6a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 49.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 88.0
+         },
+         {
+          "percent_stromal_cells": 15.0,
+          "submitter_id": "TCGA-AN-A0XL-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "c465e036-af63-4ffe-b0d7-fcd07a6251be",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 10.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-AN-A0XL-01A-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cdd8c046-fd97-482a-a11f-2217b321c4d1",
+    "submitter_id": "TCGA-E2-A570",
+    "samples": [
+     {
+      "submitter_id": "TCGA-E2-A570-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-E2-A570-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A570-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-E2-A570-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "fb95ca42-df58-4c93-bd21-5e69001ab0bb",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-E2-A570-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 60.0,
+          "submitter_id": "TCGA-E2-A570-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 35.0,
+          "number_proliferating_cells": null,
+          "slide_id": "3bf71dc2-af5c-400d-bf49-a6a7483481bb",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 5.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 2.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-E2-A570-01A-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "8f34cb4c-5798-47a0-89a1-f0ee26a8ae93",
+    "submitter_id": "TCGA-A2-A0YK",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A2-A0YK-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A0YK-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0YK-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A2-A0YK-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "4814da72-bb59-4064-940c-1fd06448dc14",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A2-A0YK-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A2-A0YK-01A-31-A13D-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 60.0,
+          "submitter_id": "TCGA-A2-A0YK-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "19673a74-0038-48f8-b98c-a20d1414a99d",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": "2018-06-13T16:15:05.252078-05:00",
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:03:33.525519-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 40.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         },
+         {
+          "percent_stromal_cells": 70.0,
+          "submitter_id": "TCGA-A2-A0YK-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e69cd1b4-c7b1-47c0-9cb2-646c44fc56c4",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": "2018-06-13T16:15:05.252078-05:00",
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:03:33.525519-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 30.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A0YK-01A-11-A615-42"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-A2-A0YK-01A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "deb9ff5b-b123-4256-99d0-48893875a2a2",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:03:33.525519-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 15.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         },
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-A2-A0YK-01A-02-BSB",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "f0b7203e-5c9c-4039-8e1d-cfc683d53a79",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T10:03:33.525519-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 10.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-A2-A0YK-01A-22"
+       },
+       {
+        "submitter_id": "TCGA-A2-A0YK-01A-31"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "93ed6066-b567-4e1c-ab81-23370f9d3452",
+    "submitter_id": "TCGA-BH-A0AY",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A0AY-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A0AY-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "46617f52-f6b6-4fde-a25a-03b61312c391",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0AY-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": null,
+          "submitter_id": "TCGA-BH-A0AY-11A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "87c30c08-4771-4bf2-8204-d077c69d18e1",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": null,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": null
+         },
+         {
+          "percent_stromal_cells": null,
+          "submitter_id": "TCGA-BH-A0AY-11A-02-BSB",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "ad79c4d9-9b8e-41b0-b4fe-417fde966cf1",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": null,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": null
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0AY-11A-23"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0AY-11A-31-A43O-20"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0AY-11A-31"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0AY-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0AY-01A-23-A21W-30"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-BH-A0AY-01A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 89.0,
+          "number_proliferating_cells": null,
+          "slide_id": "06ebda0b-2dd5-4116-9f51-c3a0ad9fb8bb",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 15.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         },
+         {
+          "percent_stromal_cells": 10.0,
+          "submitter_id": "TCGA-BH-A0AY-01A-02-BSB",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 89.0,
+          "number_proliferating_cells": null,
+          "slide_id": "581eb097-e917-4666-9344-f62b088cb024",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 15.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A0AY-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0AY-01A-11-A13B-20"
+       },
+       {
+        "submitter_id": "TCGA-BH-A0AY-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A0AY-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A0AY-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "33cea538-4c3f-470a-972d-257c43241ab4",
+    "submitter_id": "TCGA-C8-A135",
+    "samples": [
+     {
+      "submitter_id": "TCGA-C8-A135-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-C8-A135-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "cfbfb82b-4787-4b6e-b0c2-6ae38c8d5260",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-C8-A135-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-C8-A135-10A-01"
+       },
+       {
+        "submitter_id": "TCGA-C8-A135-10A-02"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-C8-A135-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-C8-A135-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-C8-A135-01A-41-A21V-30"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-C8-A135-01A-01-BSA",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 70.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4871792f-d00b-4541-815b-7aaa44c43f94",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 30.0,
+          "percent_lymphocyte_infiltration": 30.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 10.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 20.0,
+          "state": "released",
+          "percent_tumor_nuclei": 70.0
+         },
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-C8-A135-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "c03f75de-8d25-4f74-8ca4-498db35d5df9",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 20.0,
+          "percent_lymphocyte_infiltration": 50.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 15.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-C8-A135-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-C8-A135-01A-21-A13D-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "35bd694d-1dd2-466f-ab27-03320614b40e",
+    "submitter_id": "TCGA-OL-A66I",
+    "samples": [
+     {
+      "submitter_id": "TCGA-OL-A66I-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A66I-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-OL-A66I-01A-11-A321-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-OL-A66I-01A-02-TS2",
+          "section_location": "TOP",
+          "percent_tumor_cells": 95.0,
+          "number_proliferating_cells": null,
+          "slide_id": "e1a6c9d3-79db-4585-9879-1ab340415e37",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 3.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         }
+        ],
+        "submitter_id": "TCGA-OL-A66I-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66I-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A66I-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66I-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-OL-A66I-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "957a123c-0806-4289-8721-1abc0ebecbe2",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "35ca5e2a-861a-4dd2-a4ce-d294cf080da3",
+    "submitter_id": "TCGA-AQ-A54O",
+    "samples": [
+     {
+      "submitter_id": "TCGA-AQ-A54O-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-AQ-A54O-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "8701de66-1ce1-49ba-845a-dfc3bad160ff",
+          "created_datetime": "2018-05-17T13:34:27.834235-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AQ-A54O-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-AQ-A54O-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-AQ-A54O-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 20.0,
+          "submitter_id": "TCGA-AQ-A54O-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 80.0,
+          "number_proliferating_cells": null,
+          "slide_id": "8bb3a7da-f7da-430c-934a-a2302f127862",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-AQ-A54O-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-AQ-A54O-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-AQ-A54O-01A-21-A321-20"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "398fb71b-ca83-44e7-bf0d-b1ca464b0283",
+    "submitter_id": "TCGA-OL-A6VO",
+    "samples": [
+     {
+      "submitter_id": "TCGA-OL-A6VO-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A6VO-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A6VO-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-OL-A6VO-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 90.0,
+          "number_proliferating_cells": null,
+          "slide_id": "1654a5ef-a6c0-47c6-bd01-56a52f368f2a",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 2.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 5.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 90.0
+         }
+        ],
+        "submitter_id": "TCGA-OL-A6VO-01A-12"
+       },
+       {
+        "submitter_id": "TCGA-OL-A6VO-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-OL-A6VO-01A-21-A43F-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A6VO-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-OL-A6VO-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "4a948940-0b4b-41a6-acd2-527b5a7bfec6",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "417dea5f-f68e-4dab-940e-43ae8c67e5e6",
+    "submitter_id": "TCGA-BH-A1EV",
+    "samples": [
+     {
+      "submitter_id": "TCGA-BH-A1EV-11A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1EV-11A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "59abfc90-b4b5-4179-a3be-2544b7bfc52b",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T09:57:35.626335-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         },
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1EV-11A-02-TSB",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b52752d6-6898-476e-8727-5c05ef49ce28",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T09:57:35.626335-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         },
+         {
+          "percent_stromal_cells": 0.0,
+          "submitter_id": "TCGA-BH-A1EV-11A-03-TSC",
+          "section_location": "TOP",
+          "percent_tumor_cells": 0.0,
+          "number_proliferating_cells": null,
+          "slide_id": "bc848f8c-fda9-476f-9048-7858efc11667",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T09:57:35.626335-06:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 100.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 0.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1EV-11A-24"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1EV-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-BH-A1EV-01A-21-A17I-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 5.0,
+          "submitter_id": "TCGA-BH-A1EV-01A-01-TSA",
+          "section_location": "TOP",
+          "percent_tumor_cells": 90.0,
+          "number_proliferating_cells": null,
+          "slide_id": "ed83f6be-600b-45e7-a9b0-b56a5a53e614",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-11-28T09:57:35.626335-06:00",
+          "percent_necrosis": 5.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 80.0
+         }
+        ],
+        "submitter_id": "TCGA-BH-A1EV-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1EV-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-BH-A1EV-01A-41-A615-42"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-BH-A1EV-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-BH-A1EV-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "32c17319-17ca-4787-8405-6dd00615b1bd",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "98e709e7-e195-4b37-9537-f6081affb609",
+    "submitter_id": "TCGA-A7-A6VW",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A7-A6VW-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A7-A6VW-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A6VW-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 22.0,
+          "submitter_id": "TCGA-A7-A6VW-01A-02-TS2",
+          "section_location": "TOP",
+          "percent_tumor_cells": 60.0,
+          "number_proliferating_cells": null,
+          "slide_id": "4a09d2ac-a574-40f1-9247-2729efd0edaa",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 2.0,
+          "percent_lymphocyte_infiltration": 5.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 18.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 2.0,
+          "state": "released",
+          "percent_tumor_nuclei": 85.0
+         }
+        ],
+        "submitter_id": "TCGA-A7-A6VW-01A-21"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A7-A6VW-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A7-A6VW-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "7935cfe3-e57c-4155-a144-cf66eadb8b99",
+          "created_datetime": "2018-05-17T13:36:16.387564-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "81e7a3d3-be70-4834-8018-4d2cc077a4e6",
+    "submitter_id": "TCGA-A8-A09Z",
+    "samples": [
+     {
+      "submitter_id": "TCGA-A8-A09Z-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A09Z-01A-21"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 24.0,
+          "submitter_id": "TCGA-A8-A09Z-01A-01-BS1",
+          "section_location": "BOTTOM",
+          "percent_tumor_cells": 75.0,
+          "number_proliferating_cells": null,
+          "slide_id": "b0b90543-85c2-4867-9ed7-9bf913e49cc8",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 75.0
+         },
+         {
+          "percent_stromal_cells": 9.0,
+          "submitter_id": "TCGA-A8-A09Z-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 90.0,
+          "number_proliferating_cells": null,
+          "slide_id": "f9bd85b3-3a3e-43c7-90f2-6bfe1ba2bd35",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 1.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 1.0,
+          "percent_normal_cells": 0.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 90.0
+         }
+        ],
+        "submitter_id": "TCGA-A8-A09Z-01A-11"
+       },
+       {
+        "submitter_id": "TCGA-A8-A09Z-01A-21-A13A-20"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A09Z-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-A8-A09Z-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "4174bcea-f06e-4c08-acb0-e670d5d57452",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-A8-A09Z-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-A8-A09Z-10A-01"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f81ac8a2-4ce6-439e-b027-1c0bfc88ceaa",
+    "submitter_id": "TCGA-OL-A66P",
+    "samples": [
+     {
+      "submitter_id": "TCGA-OL-A66P-01A",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A66P-01A-21"
+       },
+       {
+        "submitter_id": "TCGA-OL-A66P-01A-21-A321-20"
+       },
+       {
+        "slides": [
+         {
+          "percent_stromal_cells": 52.0,
+          "submitter_id": "TCGA-OL-A66P-01A-01-TS1",
+          "section_location": "TOP",
+          "percent_tumor_cells": 45.0,
+          "number_proliferating_cells": null,
+          "slide_id": "239f863a-670c-45fc-acd9-b38395fc2383",
+          "percent_eosinophil_infiltration": null,
+          "created_datetime": null,
+          "percent_inflam_infiltration": null,
+          "percent_neutrophil_infiltration": 0.0,
+          "percent_lymphocyte_infiltration": 0.0,
+          "percent_granulocyte_infiltration": null,
+          "updated_datetime": "2018-09-06T13:49:20.245333-05:00",
+          "percent_necrosis": 0.0,
+          "percent_normal_cells": 3.0,
+          "percent_monocyte_infiltration": 0.0,
+          "state": "released",
+          "percent_tumor_nuclei": 60.0
+         }
+        ],
+        "submitter_id": "TCGA-OL-A66P-01A-11"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66P-10A",
+      "tissue_type": "Normal",
+      "portions": [
+       {
+        "submitter_id": "TCGA-OL-A66P-10A-01"
+       }
+      ]
+     },
+     {
+      "submitter_id": "TCGA-OL-A66P-01Z",
+      "tissue_type": "Tumor",
+      "portions": [
+       {
+        "slides": [
+         {
+          "updated_datetime": "2018-08-23T19:24:29.874737-05:00",
+          "submitter_id": "TCGA-OL-A66P-01Z-00-DX1",
+          "section_location": "Not Reported",
+          "state": "released",
+          "slide_id": "71bfccf8-0af7-4a1a-85fb-47ac6769b5af",
+          "created_datetime": "2018-05-17T13:32:38.220752-05:00"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "count": 50,
+   "total": 50,
+   "size": 100,
+   "from": 0,
+   "sort": "",
+   "page": 1,
+   "pages": 1
+  }
+ },
+ "warnings": {}
+}
